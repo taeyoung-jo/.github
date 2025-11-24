@@ -10,7 +10,7 @@
 
 <br />
 
-## 🚀 Tech Stack
+## 🚀 기술 스택
 
 > Frontend [레포지토리 바로 가기](https://github.com/taeyoung-jo/go-travel-client)
 
@@ -59,7 +59,7 @@
 
 <br />
 
-## 📦 Features
+## 📦 주요 기능
 
 #### 🔐 인증 / 회원
 
@@ -88,38 +88,7 @@
 
 <br />
 
-## 🧱 Architecture
-
-> Frontend Structure
-```
-src/
-  components/
-  features/
-  hooks/
-  pages/
-  routes/
-  store/
-  lib/
-  types/
-```
-
-> Backend Structure
-```
-src/main/java
-  ├─ global
-  │   ├─ config
-  │   ├─ security
-  │   ├─ exception
-  ├─ domain
-  │   ├─ user
-  │   ├─ product
-  │   ├─ reservation
-  │   ├─ flight
-```
-
-<br />
-
-## 💻 Local Development
+## 💻 실행
 
 > Frontend
 ```
@@ -136,7 +105,7 @@ cd go-travel-server
 
 <br />
 
-## 팀원 👨‍👨‍👧‍👧
+## 👨‍👨‍👧‍👧 팀원
 
 <table>
   <tbody>
